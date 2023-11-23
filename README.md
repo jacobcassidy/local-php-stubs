@@ -2,11 +2,17 @@
 
 Custom stubs folder to use with VSCode's Intelephense extension for WordPress development.
 
+## Generated Stubs
+
+Stubs created with the [PHP Stubs generator tool](https://github.com/php-stubs/generator):
+
+- `gravity-pdf-stubs.php` ([file](https://github.com/jacobcassidy/php-stubs/gravity-pdf-stubs.php))
+
 ## Sourced Stubs
-- `acf-pro-stubs.php` [source](https://github.com/php-stubs/acf-pro-stubs/blob/master/acf-pro-stubs.php)
-- `gravity-forms-stubs.php` [source](https://github.com/php-stubs/gravity-forms-stubs/blob/master/gravity-forms-stubs.php)
-- `woocommerce-stubs.php` [source](https://github.com/php-stubs/woocommerce-stubs/blob/master/woocommerce-stubs.php)
+- `acf-pro-stubs.php` ([source](https://github.com/php-stubs/acf-pro-stubs/blob/master/acf-pro-stubs.php) | [file]([file](https://github.com/jacobcassidy/php-stubs/acf-pro-stubs.php)))
+- `gravity-forms-stubs.php` ([source](https://github.com/php-stubs/gravity-forms-stubs/blob/master/gravity-forms-stubs.php) | [file](https://github.com/jacobcassidy/php-stubs/gravity-forms-stubs.php))
+- `woocommerce-stubs.php` ([source](https://github.com/php-stubs/woocommerce-stubs/blob/master/woocommerce-stubs.php) | [file](https://github.com/jacobcassidy/php-stubs/woocommerce-stubs.php))
 
 ## Self-Created Stubs
-- `missing-wordpress-stubs.php`
-- `ray-app-stubs.php`
+- `missing-wordpress-stubs.php` ([file]([file](https://github.com/jacobcassidy/php-stubs/missing-wordpress-stubs.php)))
+- `ray-app-stubs.php` ([file]([file](https://github.com/jacobcassidy/php-stubs/ray-app-stubs.php)))
