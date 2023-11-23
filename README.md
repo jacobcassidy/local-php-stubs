@@ -14,5 +14,5 @@ Stubs created with the [PHP Stubs generator tool](https://github.com/php-stubs/g
 - `woocommerce-stubs.php` ([source](https://github.com/php-stubs/woocommerce-stubs/blob/master/woocommerce-stubs.php) | [file](https://github.com/jacobcassidy/php-stubs/woocommerce-stubs.php))
 
 ## Self-Created Stubs
-- `missing-wordpress-stubs.php` ([file]([file](https://github.com/jacobcassidy/php-stubs/missing-wordpress-stubs.php)))
-- `ray-app-stubs.php` ([file]([file](https://github.com/jacobcassidy/php-stubs/ray-app-stubs.php)))
+- `missing-wordpress-stubs.php` ([file](https://github.com/jacobcassidy/php-stubs/missing-wordpress-stubs.php))
+- `ray-app-stubs.php` ([file](https://github.com/jacobcassidy/php-stubs/ray-app-stubs.php))
