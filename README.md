@@ -17,5 +17,4 @@ Stubs created with the [PHP Stubs generator tool](https://github.com/php-stubs/g
 
 ## Self-Created Stubs
 
-- `missing-wordpress-stubs.php` ([file](https://github.com/jacobcassidy/php-stubs/blob/main/missing-wordpress-stubs.php))
 - `ray-app-stubs.php` ([file](https://github.com/jacobcassidy/php-stubs/blob/main/ray-app-stubs.php))
