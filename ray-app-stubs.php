@@ -9,7 +9,7 @@ namespace {
      *
      * @return object
      */
-    function ray()
+    function ray(...$args)
     {
     }
 }
